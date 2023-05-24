@@ -2,12 +2,19 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
+    </p>
+    <p align="center">
+    <a href="https://github.com/WiTheR60334">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1600&pause=100&multiline=true&width=500&height=100&css=.typing-svg line { text-align: center; }&lines=Romir+Bedekar;Currently+learning+ML+and+DL+%7C+CSE;Open+to+collaborating+on+interesting+and+innovative+projects;Learning+Ethical+Hacking+%7C+Bots" alt="Typing SVG" />
+    </a>
+    </p>
+<!--     <i>
         I'm Romir.<br>
         Currently learning ML and DL.<br>
         Also interested in Cyber Security.<br>
         Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
+    </i><br> -->
+    <p align="center">
     <a href="https://www.linkedin.com/in/romir-bedekar">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
