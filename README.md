@@ -62,12 +62,22 @@
 </p>
 </details>
 
+
+
+<p>
+    <i>
+        For any inquiries or contact, please feel free to reach out to me at:<br>
+        <a href="mailto:enderwither1234@gmail.com">enderwither1234@gmail.com</a><br>
+        <a href="mailto:romir.b@ahduni.edu.in">romir.b@ahduni.edu.in</a><br>
+    </i>
+</p>
+
+    
 <p align="center">
   <a href="https://github.com/WiTheR60334">
     <img src="https://komarev.com/ghpvc/?username=WiTheR60334&color=yellow&style=round)" />
   </a>
-</p>
-
+</p>    
 <!--
 **WiTheR60334/WiTheR60334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
