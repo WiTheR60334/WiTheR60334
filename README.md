@@ -29,6 +29,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WiTheR60334)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/WiTheR60334)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/WiTheR60334)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/WiTheR60334)
 
 ### ML/DL
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)](https://github.com/WiTheR60334)
