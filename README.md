@@ -45,6 +45,8 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/WiTheR60334)
 [![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/WiTheR60334)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/WiTheR60334)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/WiTheR60334)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/WiTheR60334)
 [![flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/WiTheR60334)
 
 ### OS
