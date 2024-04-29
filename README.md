@@ -5,7 +5,7 @@
     </p>
     <p align="center">
     <a href="https://github.com/WiTheR60334">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1600&pause=100&multiline=true&width=500&height=100&css=.typing-svg line { text-align: center; }&lines=Romir+Bedekar;Currently+learning+ML+and+DL+%7C+CSE;Open+to+collaborating+on+interesting+and+innovative+projects;Learning+Ethical+Hacking+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1600&pause=100&multiline=true&width=500&height=100&css=.typing-svg line { text-align: center; }&lines=Romir+Bedekar;Currently+learning+ML+and+DL+%7C+CSE;Open+to+collaborating+on+interesting+and+innovative+projects;Learning+Ethical+Hacking+%7C+Payloads" alt="Typing SVG" />
     </a>
     </p>
 <!--     <i>
