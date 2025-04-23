@@ -1,35 +1,47 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> I'm Romir Bedekar</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    </p>
-    <p align="center">
-    <a href="https://github.com/WiTheR60334">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1600&pause=100&multiline=true&width=500&height=100&css=.typing-svg line { text-align: center; }&lines=Romir+Bedekar;Currently+learning+ML+and+DL+%7C+CSE;Open+to+collaborating+on+interesting+and+innovative+projects;Learning+Ethical+Hacking+%7C+Payloads" alt="Typing SVG" />
-    </a>
-    </p>
-<!--     <i>
-        I'm Romir.<br>
-        Currently learning ML and DL.<br>
-        Also interested in Cyber Security.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br> -->
-    <p align="center">
-    <a href="https://www.linkedin.com/in/romir-bedekar">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/WiTheR60334?t=7Oeg5fLDCbnGmImm4oGF-A&s=09">
-        <img src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter" alt="Twitter">
-    </a>
+  <a href="https://github.com/WiTheR60334">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=00F7FF&center=true&width=500&lines=AI+%7C+ML%2FDL+%7C+Data+Science+Explorer;CSE+Undergrad+at+Ahmedabad+University;Building+AI+Apps+and+Innovative+Projects&multiline=true&width=700&height=90&duration=3500" alt="Typing SVG">
+<!--     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=AI+%7C+ML%2FDL+%7C+Data+Science+Enthusiast;CSE+Undergrad+%7C+Ahmedabad+University;Building+ML+Models%2C+Smart+Apps%2C+and+Cool+Projects;Let's+collaborate+and+innovate+together!&multiline=true&width=700&height=100&duration=4000&pause=1000" alt="Typing SVG"> -->
+  </a>
 </p>
+
+---
+
+### 💡 About Me
+- 🎓 **B.Tech in Computer Science**, Ahmedabad University (Expected 2026)
+- 🔭 Working on AI-based apps, medical image analysis, and financial predictions
+- 🤖 Passionate about Deep Learning, Computer Vision, and NLP
+- 🌱 Constantly learning about data pipelines, model optimization & MLOps
+- 👨‍🏫 Former Teaching Assistant (CSE103 & ENR106)
+- 🛠️ Exploring creative AI solutions through full-stack applications
+
+---
+
+### 📈 Featured Projects
+- **🧠 Brain Tumor Segmentation (UNet + KAN)**  
+  Medical image segmentation using hybrid deep learning architecture  
+  `TensorFlow`, `segmentation_models_3D`, `nibabel`, `Matplotlib`
+
+- **📈 Stock Market Prediction with LSTM**  
+  Price prediction using news sentiment & historical data  
+  `LSTM`, `YFinance`, `Streamlit`, `NLP`
+
+- **🧳 TrippoBot: AI Travel Assistant**  
+  Personalized itinerary planner with real-time APIs and GPT-4  
+  `React`, `Flask`, `MongoDB`, `GPT-4`, `TailwindCSS`
+
+---
+
+### 🚀 Tech Stack
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WiTheR60334)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/WiTheR60334)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/WiTheR60334)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/WiTheR60334)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/WiTheR60334)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/WiTheR60334)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/WiTheR60334)
 
 ### ML/DL
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)](https://github.com/WiTheR60334)
@@ -51,56 +63,36 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/WiTheR60334)
 
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/WiTheR60334)
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/WiTheR60334)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/WiTheR60334)
+---
 
 
+### 🏆 Achievements
+- 🥇 **1st Prize**, Website Making Competition – *Travel Agency Project*
+- 🥈 **2nd Place**, Tic-Tech-Toe’24 Hackathon – DA-IICT
+- 👨‍🏫 **Teaching Assistant**, Courses CSE103 & ENR106
+- 🤖 **CSE Lead**, Robotics Club @ Ahmedabad University
+
+---
+
+### 📊 GitHub Stats
 <details>
-<p align="center">
-  <a href="https://github.com/WiTheR60334">
+  <summary>Click to expand!</summary>
+  <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiTheR60334&theme=transparent" />
-  </a>
-  <a href="https://github.com/WiTheR60334">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiTheR60334&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/WiTheR60334">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiTheR60334&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WiTheR60334&theme=transparent" />
-  </a>
-<!--   <a href="https://github.com/WiTheR60334">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiTheR60334" />
-  </a> -->
-</p>
+  </p>
 </details>
 
+---
 
-
-<p>
-    <i>
-        For any inquiries or contact, please feel free to reach out to me at:<br>
-        <a href="mailto:enderwither1234@gmail.com">enderwither1234@gmail.com</a><br>
-        <a href="mailto:romir.b@ahduni.edu.in">romir.b@ahduni.edu.in</a><br>
-    </i>
+### 📬 Connect with Me
+<p align="center">
+  <a href="mailto:romir.b@ahduni.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/romir-bedekar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/WiTheR60334"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-    
 <p align="center">
-  <a href="https://github.com/WiTheR60334">
-    <img src="https://komarev.com/ghpvc/?username=WiTheR60334&color=yellow&style=round)" />
-  </a>
-</p>    
-<!--
-**WiTheR60334/WiTheR60334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://komarev.com/ghpvc/?username=WiTheR60334&color=yellow&style=flat">
+</p>
